@@ -1,0 +1,19 @@
+{
+  "name": "trackbear-help",
+  "version": "1.0.0",
+  "description": "The help site for trackbear.app",
+  "private": true,
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "vitepress": "^1.4.2"
+  }
+}
