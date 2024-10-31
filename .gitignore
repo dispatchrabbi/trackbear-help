@@ -67,5 +67,5 @@ dist-ssr
 *.local
 
 # VitePress
-help/.vitepress/dist
-help/.vitepress/cache
+.vitepress/dist
+.vitepress/cache

@@ -4,14 +4,18 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "TrackBear Help",
   cleanUrls: true,
-  head: [['link', { rel: 'icon', href: '/images/brown-bear.png' }]],
+  head: [
+    ['link', { rel: 'icon', href: '/images/brown-bear.png' }],
+    // <script defer data-domain="help.trackbear.app" src="https://metrics.trackbear.app/js/script.js"></script>
+    ['script', { src: 'https://metrics.trackbear.app/js/script.js', 'data-domain': 'help.trackbear.app', defer: '' }]
+  ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     search: {
       provider: 'local'
     },
     externalLinkIcon: true,
-    
+
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Getting Started', link: '/making-an-account' }
