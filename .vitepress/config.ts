@@ -33,6 +33,12 @@ export default defineConfig({
         ]
       },
       {
+        text: 'Using Trackbear',
+        items: [
+          { text: 'Tracking Progress', link: '/using-trackbear/tracking-progress' }
+        ]
+      },
+      {
         text: 'Your Account',
         items: [
           { text: 'Managing Your Account', link: '/account' },
