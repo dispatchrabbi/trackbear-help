@@ -46,6 +46,8 @@ To change your password:
 1. Enter your current password and your new password.
 1. Click **Reset password**.
 
+You will be sent an email confirming that your password was changed.
+
 ## Deleting your account
 
 To delete your account:

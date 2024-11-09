@@ -12,7 +12,7 @@ The Projects page looks like this:
 
 In the top right corner, you'll see two buttons: New and Import. For now, click the **New** button. TrackBear will then present you with a dialog box to create a new project. The only thing you *have* to do is add a title, but you can also add a description, choose whether or not to show the project on your profile, set the phase of the project, and add a starting balance.
 
-![](/images/help/create-project.png)
+![](/images/help/gs-create-project.png)
 
 Type in your title and click **Submit**. Once you do that, your Projects page will look like this:
 

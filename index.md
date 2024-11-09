@@ -22,17 +22,20 @@ hero:
   #     link: /account
 
 features:
+  - title: Browse help
+    details: Dive directly into the help pages.
+    link: '/using-trackbear/tracking-progress'
   - title: Get started
-    details: If you're new to TrackBear and want to get yourself set up, click here for our Getting Started guide.
+    details: Use our Getting Started guide to jump-start your TrackBear setup.
     link: '/getting-started/introduction'
   # - title: Leaderboards
   #   details: Looking to set up a leaderboard for your friends or community? Look no further.
   #   link: '/leaderboards'
-  - title: Make a public profile
-    details: Want a snazzy page to show off your projects and goals? Click here for details.
-    link: '/public-profile'
+  - title: Public profile
+    details: Make a snazzy page to show off your projects and goals.
+    link: '/settings/public-profile'
   - title: Locked out?
-    details: If you are locked out of your account after about 10 days, click here to find out how to get your account reactivated.
-    link: '/account'
+    details: Get help if you can't log into your account.
+    link: '/settings/account'
 ---
 

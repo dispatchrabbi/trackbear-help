@@ -3,10 +3,10 @@
 TrackBear is all about tracking your writing progress, and this page is all about how you do that in TrackBear.
 
 ::: warning Do you have a project set up?
-You need at least one project set up in order to enter progress. If you haven't set one up yet, go do that first. If you need help, take a peek at the [Projects help page](./projects).
+You need at least one project set up in order to enter progress. If you haven't set one up yet, go do that first. If you need help, you can [read more about creating projects here](/using-trackbear/projects#creating-a-new-project).
 :::
 
-## Entering new progress
+## Enter progress
 
 You can enter writing progress from any screen in TrackBear. You have two buttons to choose from, which both do the same thing:
 
@@ -41,13 +41,39 @@ You can enter zero progress if you want to, or even negative progress. You might
 
 - **Set New Project Total?** By default, TrackBear will _add_ the count in the **Progress Made** field to your current total. If you instead want to put in your _new_ total and have TrackBear do the math for you, toggle this switch. The message will change from "added to the total" to "set as the total".
 
-- **Tags:** Add any relevant tags for this progress entry here. Tags can help you set up goals and leaderboards that include progress that spans multiple projects, but they are definitely an optional part of TrackBear. Read more about tags [here](/settings/tags.md).
+- **Tags:** Add any relevant tags for this progress entry here. Tags can help you set up goals and leaderboards that include progress that spans multiple projects, but they are definitely an optional part of TrackBear. [Read more about tags here.](/settings/tags.md)
 
 - **Note:** If you want, leave yourself a little note! Did you write a particularly cool scene? What music did you listen to? Or whatever else you want (as long as it's less than 140 characters).
 
 When you've filled out all the relevant info, hit **Submit** and your progress will be saved.
 
-## Changing a previous entry
+## See your progress
+
+Your progress in each project is displayed in three different ways on that project's page: an activity heatmap, a graph, and a table.
+
+### Activity heatmap
+
+![A screenshot of a project's heatmap.](/images/help/track-progress-heatmap.png)
+
+The activity heatmap displays a square for each day since you started working on the project (up to a year). The darker a square is, the more progress you logged that day.
+
+### Graph
+
+![A screenshot of a project's graph.](/images/help/track-progress-graph.png)
+
+The graph shows your accumulated progress from the beginning of the project till the last day you logged progress. If you have been logging progress using more than one measure (e.g., with both words and time), use the tabs to switch between measures.
+
+::: tip Looking for a graph with a par line?
+Projects don't include a par line because they're just about collecting progress on a single project. To get a par line, [set up a target goal](./goals) and make sure you select this project and add a start and end date.
+:::
+
+### Table
+
+![A screenshot of a project's table.](/images/help/track-progress-table.png)
+
+The table shows every progress entry you made for this project, along with the total, tags, and note for each progress entry. You can use the table to [edit a previous entry](#changing-a-previous-entry) or [delete an entry altogether](#deleting-a-previous-entry).
+
+## Change a previous entry
 
 Whether you mistyped your word count, picked the wrong day, or forgot to add a tag, don't sweat it. You can always edit your progress entries. Here's how.
 
@@ -60,7 +86,7 @@ Whether you mistyped your word count, picked the wrong day, or forgot to add a t
 
 Everything is back as it should be!
 
-## Deleting a previous entry
+## Delete a previous entry
 
 If you accidentally entered your progress twice, picked the wrong project, or need to delete a progress entry for any other reason, here's how.
 

@@ -2,7 +2,7 @@
 
 Your public profile lets you share your writing progress and goals with the world. It shows your lifetime stats, and you can add projects and goals to it as well.
 
-## Enabling your profile
+## Enable your profile
 
 Your public profile is disabled by default. To enable your public profile:
 
@@ -12,7 +12,7 @@ Your public profile is disabled by default. To enable your public profile:
 
 Your profile will now be available at *https:\//trackbear.app/@your-username*.
 
-## Adding projects and goals to your profile
+## Add projects and goals to your profile
 
 Go to the page for the project or goal that you want to add to your profile. Then:
 
@@ -20,7 +20,7 @@ Go to the page for the project or goal that you want to add to your profile. The
 1. Toggle the switch under **Show on profile?**.
 1. Click **Edit**.
 
-## Disabling your profile
+## Disable your profile
 
 To disable your public profile:
 

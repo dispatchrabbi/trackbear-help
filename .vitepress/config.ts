@@ -18,7 +18,8 @@ export default defineConfig({
 
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Getting Started', link: '/making-an-account' }
+      { text: 'Using Trackbear', link: '/using-trackbear/tracking-progress' },
+      { text: 'Getting Started Guide', link: '/getting-started/introduction' }
     ],
 
     sidebar: [
@@ -35,15 +36,17 @@ export default defineConfig({
       {
         text: 'Using Trackbear',
         items: [
-          { text: 'Tracking Progress', link: '/using-trackbear/tracking-progress' }
+          { text: 'Tracking Progress', link: '/using-trackbear/tracking-progress' },
+          { text: 'Projects', link: '/using-trackbear/projects' },
         ]
       },
       {
         text: 'Your Account',
         items: [
-          { text: 'Managing Your Account', link: '/account' },
-          { text: 'Settings', link: '/settings' },
-          { text: 'Public Profile', link: '/public-profile' },
+          { text: 'Managing Your Account', link: '/settings/account' },
+          // { text: 'Settings', link: '/settings/settings' },
+          // { text: 'Tags', link: '/settings/tags' },
+          { text: 'Public Profile', link: '/settings/public-profile' },
         ]
       }
     ],
