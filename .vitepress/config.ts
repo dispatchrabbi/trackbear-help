@@ -38,6 +38,7 @@ export default defineConfig({
         items: [
           { text: 'Tracking Progress', link: '/using-trackbear/tracking-progress' },
           { text: 'Projects', link: '/using-trackbear/projects' },
+          { text: 'Goals', link: '/using-trackbear/goals' },
         ]
       },
       {

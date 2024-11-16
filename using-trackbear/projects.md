@@ -4,29 +4,29 @@ Projects are the main way to organize your work in TrackBear. You should create 
 
 ## Manage your projects
 
-In order to see all your projects, click the **Projects** link on the sidebar and you'll be taken to the Projects page.
+In order to see all your projects, click the **Projects** link on the sidebar and you'll be taken to [the Projects page](https://trackbear.app/works).
 
 ![A screenshot of projects screen in TrackBear, with three projects.](/images/help/many-projects.png)
 
-From here, you can click **New** to create a new project, **Import** to import projects from an outside source, or click on one of your projects to see your progress and more detailed information.
+From here, you can click **New** to create a new project, **Import** to import projects from an outside source, star or unstar projects, or click on one of your projects to see your progress and more detailed information.
 
 ## Star a project
 
 On the Projects page, click the star icon on a project to star or un-star it. We recommend that you star the projects that you most frequently access.
 
-Starred projects will show up at the top of the list on the Projects page, and at the top of any Project dropdown (say, in the Enter Progress dialog or when creating a goal). Starred projects will also show up as links in the sidebar for quick access. Lastly, starred projects will be shown on your Dashboard.
+Starred projects will show up at the top of the list on the Projects page, and at the top of any Project dropdown (say, in the Enter Progress dialog or when creating a goal). Starred projects will also show up as links in the sidebar for quick access.
 
 ## See project details
 
-You can see all the details about your project on the project details page. To get here, start on [the Projects page](#manage-your-projects) and click your project.
+You can see all the details about your project on the project details page. To get here, start on [the Projects page](https://trackbear.app/works) and click your project.
 
-![A screenshot of the project page.](/images/help/project-page.png)
+![A screenshot of the project details page.](/images/help/project-page.png)
 
 To learn more about the [activity heatmap](/using-trackbear/tracking-progress#activity-heatmap), [graph](/using-trackbear/tracking-progress#graph), and [table](/using-trackbear/tracking-progress#table), check out the [Tracking Progress help page](/using-trackbear/tracking-progress#seeing-your-progress).
 
 ## Create a new project
 
-In order to create a new project, click the **New** button in the top right. You'll be presented with the **Create Project** dialog:
+In order to create a new project, click the **New** button in the top right of [the Projects page](https://trackbear.app/works). You'll be presented with the **Create Project** dialog:
 
 ![A screenshot of the Create Project dialog box, with some data filled in.](/images/help/create-project.png)
 
@@ -58,7 +58,7 @@ In order to edit a project's title, description, or other properties, go to that
 
 ![A screenshot of the Edit Project section on the Configure Project page.](/images/help/edit-project.png)
 
-All of the fields on this page act the same way as the fields in the [Create Project dialog](#creating-a-new-project). When you're done, click **Edit** to save your changes.
+All of the fields on this page act the same way as the fields in the [Create Project dialog](#create-a-new-project). When you're done, click **Edit** to save your changes.
 
 ## Add a cover
 
