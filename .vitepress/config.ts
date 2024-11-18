@@ -24,7 +24,7 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Getting Started',
+        text: 'Getting Started Guide',
         items: [
           { text: 'Introduction', link: '/getting-started/introduction' },
           { text: 'Sign Up', link: '/getting-started/signing-up' },
@@ -49,7 +49,14 @@ export default defineConfig({
           // { text: 'Tags', link: '/settings/tags' },
           { text: 'Public Profile', link: '/settings/public-profile' },
         ]
-      }
+      },
+      {
+        // faq
+        items: [
+          { text: 'Looking for an app?', link: '/faq/looking-for-an-app' },
+        ],
+      },
+      
     ],
 
     footer: {
